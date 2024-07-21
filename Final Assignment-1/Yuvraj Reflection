@@ -1,0 +1,43 @@
+Name: Yuvraj Singh
+Student ID: 155580210
+
+
+Q1. Please detail what exactly you did for the assignment.
+
+For this assignment, I organized the group's work, checking if all members agreed. 
+I mainly worked on part C and tested parts C and B; I Also, added comments on part C.
+For this assignment, I created three Python classes: Stack, Queue, and Deque. Each of these classes 
+is an implementation of a data structure, and they are defined as follows:
+
+Stack: A stack is implemented using a linked list structure with a push operation to add elements 
+to the top of the stack and a pop operation to remove elements from the top.
+The stack has a capacity that can dynamically increase when needed.
+
+Queue: A queue is implemented using a linked list structure with an enqueue operation to add elements 
+to the back of the queue and a dequeue operation to remove elements from the front.
+The queue has a capacity that can dynamically increase when needed.
+
+Deque (Double-ended queue): A deque is implemented using an array-like structure with both front and 
+back pointers to allow elements to be pushed and popped from both ends of the deque.
+The deque has a capacity that can dynamically increase when needed.
+
+Q2. What was one thing you learned when doing this assignment?
+
+One important aspect I learned from this assignment is the implementation of common data structures 
+using both linked lists and arrays. These data structures are fundamental for various applications 
+in computer science and can be implemented in Python with relative ease. Understanding the internal 
+workings of data structures is essential for writing efficient and effective code.
+
+Q3. What was its most challenging aspect and what did you do to overcome this challenge?
+
+The most challenging aspect of this assignment could be understanding how dynamic resizing and capacity 
+management work. Ensuring that the capacity increases when needed without causing memory errors or inefficiencies 
+can be complex. To overcome this challenge, the code employs dynamic resizing. When the size of a data structure 
+exceeds its current capacity, it doubles the capacity and reorganizes the data to fit within the new limits. 
+This strategy helps ensure that these data structures remain efficient as elements are added or removed, even 
+when the number of elements exceeds the initial capacity. Furthermore, code design, testing, and the handling 
+of edge cases are important aspects of developing robust data structures, and those aspects are addressed in 
+this code as well.
+
+
+

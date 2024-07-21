@@ -1,0 +1,24 @@
+Ravneet Kaur
+I did part b of this assignment
+In your reflection include the following:
+
+Please detail what exactly you did for the assignment.
+I implemented the given part of the assignment using sentinel nodes. In the '__init__' method of the DoublyLinked class, I created
+two sentinel nodes to represent the front and back of the list. 
+For the 'get_front' and 'get_back' methods, I updated the code to check if the next or previous node of sentinel nodes is the other
+sentinel node to ensure that the list is empty.
+'push_front' and 'push_back' methods are coded to insert new nodes between the existing nodes and the sentinel nodes
+if the list is empty.
+The 'is_empty' method is implemented to check whether the list is empty, except the presence of sentinel nodes.
+Thus, I followed the instructions provided in the pdf file to implement the methods accordingly alongwith sentinel methods approach.
+
+What was one thing you learned when doing this assignment?
+I learnt several things while doing the assignment - 
+First, how clear communication with team members and good team work helps accomplish the tasks in a better and effective way.
+Second, properly following the instructions provided to implement the code is must.
+Lastly, I learnt how to implement a doubly linked class using sentinel nodes.
+
+What was its most challenging aspect and what did you do to overcome this challenge?
+I faced difficulty in implementing the insert_after method because it was failing the test due to insertion of passed values at
+incorrect nodes. I realized that the code was not correctly updating the last_node reference when some new node was inserted at 
+the end of the list. So, I corrected the code to update the last_node when a new node was inserted.
