@@ -1,0 +1,69 @@
+Assignment-3-Reflection 
+
+Name - Yuvraj Singh | Student ID- 155580210
+
+Q1- Detailing the Work Done in the Assignment:
+A1- "In this assignment, I focused on developing a game in Python using the Pygame library. My primary task involved coding the game logic and 
+implementing various features essential for gameplay. This included designing the game board, integrating player movements, and handling 
+game state changes. Specifically, in a3 part a, I concentrated on establishing the foundational elements of the game, such as setting up 
+the board and initializing the basic mechanics. For a3 part b, my efforts were directed towards enhancing the game's functionality, which 
+involved adding more complex features like AI for the game, and creating more sophisticated interaction mechanisms."
+
+Q2- One Thing Learned During the Assignment:
+A2- "The most significant learning from this assignment was understanding the intricacies of game development, particularly in Python. 
+I gained valuable insights into event handling, graphical user interface design, and the overall architecture of a game application. 
+Working with Pygame allowed me to learn how to manage game states, animations, and user inputs in an interactive environment. This 
+experience significantly enhanced my skills in Python programming, particularly in applying object-oriented programming principles 
+to a real-world project."
+
+Q3- Most Challenging Aspect and Overcoming It:
+A3- "The most challenging aspect of this assignment was implementing the 'undo' feature, which required a deep understanding of the game's
+state at any given point. To overcome this challenge, I needed to carefully manage the state changes within the game, ensuring that
+each action could be reversed without breaking the game's logic. This involved not only writing additional methods for state management 
+but also ensuring that these methods integrated seamlessly with the existing game code. I overcame this challenge by methodically testing 
+each part of the game after implementing the undo feature, ensuring that all game functionalities remained intact and worked as expected."
+
+____________________________________________________________________________________________________________________________________________________
+
+Name - Ravneet Kaur | 
+
+Please detail what exactly you did for the assignment.    
+I did part c of the assignment, i.e. I added the restart button functionality in the game.py file to provide a user-friendly way to reset the game state and start a new game without closing the application.
+For this, I created Button class and restart button as an instance of the class. I added the function 'pygame.mouse.get_pos()' to check the mouse's current position and is_over() method to check if the mouse 
+click occured over the restart button. When the restart button is clicked, a new instance of the Board class is created and flags 'has_winner' and 'overflowing' are set to false.
+And I used draw method to ensure that restart button is visible and drawn on the window every frame within the game loop.
+----    
+What was one thing you learned when doing this assignment?    
+I learned various things while doing the assignment which includes event handling such as mouse clicks and key presses, implementing a game loop to repeatedly update the game state, creating and managing user     
+interface elements and problem solving.
+----    
+What was its most challenging aspect and what did you do to overcome this challenge?    
+The assignment had a tricky part when we had to use Pygame for making the game and set up how it runs. Pygame is like a tool that helps in creating games, but understanding how it works, especially with events     
+like mouse clicks and managing the game loop, was a bit challenging. It's like figuring out the rules of a game. We took it step by step, looking at examples and trying things out slowly. Whenever there was a     
+problem, we used tools to find and fix it. Asking for help online and checking how others did similar things was useful too. Testing the game often as we built it helped catch mistakes early. By breaking down    
+the challenges and learning bit by bit, we made progress and successfully handled the Pygame part of the assignment.
+_________________________________________________________________________________________________________________________________________________________
+
+
+Name-Avreet Kaur |   160843215
+
+1.Please detail what exactly you did for the assignment.
+I did part b, in which i added rows and columns in the game.By this i added a 2D array representing the board for the node,the depth of this node ,
+the height of the game tree to the game. By this, the game is emphasized on the importance of considering both my own potential moves and anticipating the actions
+of my opponent, creating a branching structure that explores various outcomes.I conveyed a fundamental principle in game theory and artificial intelligence—the 
+ability to foresee and evaluate potential future scenarios to inform decision-making. Exploring the entire game tree in simpler games allows for a comprehensive 
+understanding of the consequences of each move and aids in making optimal decisions.
+
+2.What was one thing you learned when doing this assignment?
+I've learned about the fundamental concept of a game tree as a valuable data structure in strategic decision-making for games.
+The idea of considering not only my own potential moves but also anticipating and responding to the actions of my opponent has become clearer. The scalability
+of this approach, especially in games with a limited number of states, allows for the generation of all possible moves leading to a terminal state, signifying the 
+end of the game.I've gained an understanding of the significance of exploring and analyzing the entire game tree in simpler games to comprehend the consequences of
+each move and make optimal decisions. This knowledge provides a foundation for further exploration into more complex scenarios where exhaustive analysis might not 
+be practical, leading to the need for advanced algorithms and heuristics in the realms of artificial intelligence and game theory applications.
+
+3.What was its most challenging aspect and what did you do to overcome this challenge?
+The most challenging part was finding the right balance between simplicity and depth.To overcome this challenge, I focused on providing a clear and structured 
+narrative, starting with a basic definition of a game tree and gradually introducing additional layers of complexity. By emphasizing key points, such as the 
+importance of considering both one's own and the opponent's moves, and highlighting the scalability of the approach in simpler games, I aimed to make the 
+information digestible for a broader audience.
