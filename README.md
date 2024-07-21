@@ -42,4 +42,4 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-For any questions or feedback, please contact [your-email@example.com](mailto:syuvraj1900@gmail.com).
+For any questions or feedback, please contact at [my mail](mailto:syuvraj1900@gmail.com).
