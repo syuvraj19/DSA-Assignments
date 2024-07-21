@@ -23,19 +23,8 @@ Upon successful completion of this course, I am able to:
 
 ## Projects and Assignments
 
-### Lab Assignments 0-7: [Project Name](#)
-- **Description:** Brief description of the project.
-- **Technologies Used:** List of technologies.
-- **Key Features:** Highlight unique features or functionalities.
-
-### Final Assignment 1-3: [Project Name](#)
-- **Description:** Brief description of the project.
-- **Technologies Used:** List of technologies.
-- **Key Features:** Highlight unique features or functionalities.
-
-## Technologies Used
-
-- **Programming Language:** Python
+- Lab Assignments 0-7
+- Final Assignment 1-3
 
 ## How to Run the Projects
 
