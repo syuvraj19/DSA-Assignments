@@ -2,6 +2,8 @@
 
 Welcome to the repository for **Data Structures and Algorithms (DSA456)** at Seneca College!
 
+The GitHub repository DSA-Assignments contains assignments for the Data Structures and Algorithms (DSA456) course at Seneca College. The repository is organized into two main sections: lab_assignments (Lab Assignments 0-7) and final_assignments (Final Assignments 1-3). These assignments cover practical implementations and theoretical concepts, including algorithm analysis, growth rates, custom data structures, P vs NP problems, efficient data retrieval, and graph data structures. The repository includes documentation and is primarily written in Python.
+
 ## 📚 Course Overview
 
 **Course Title:** Data Structures and Algorithms  
@@ -35,8 +37,6 @@ Upon successful completion of this course, you will be able to:
 - `lab_assignments/`: Contains files for Lab Assignments 0-7.
 - `final_assignments/`: Contains files for Final Assignments 1-3.
 - `docs/`: Documentation and notes related to the course material.
-
-The GitHub repository DSA-Assignments contains assignments for the Data Structures and Algorithms (DSA456) course at Seneca College. The repository is organized into two main sections: lab_assignments (Lab Assignments 0-7) and final_assignments (Final Assignments 1-3). These assignments cover practical implementations and theoretical concepts, including algorithm analysis, growth rates, custom data structures, P vs NP problems, efficient data retrieval, and graph data structures. The repository includes documentation and is primarily written in Python.
 
 ## 📬 Contact
 
